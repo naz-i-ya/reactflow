@@ -1,0 +1,15 @@
+.meeting {
+    position: absolute;
+    bottom: 0px;
+    right: -9rem;
+    background-color: #404040;
+    width: 40%;
+    height: 40%;
+    max-width: 500px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px ;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid whitesmoke !important;
+    box-shadow: 0px 5px 7px 0px rgba(0, 0, 0, 0.24) !important;
+}
