@@ -1,3 +1,41 @@
+
+Tech used: HTML, CSS, JavaScript, ReactJS, React Flow, CSS Flexbox, Material-ui, Bootstrap.
+
+I created reusable and efficient components with flexbox and the BEM (Block Element Modifier) naming convention. Increased productivity with Emmet and ES7 code snippets to push out a compelling front end design while also building components with state management top of mind. Heavily styled with CSS to have full control on styles to improve user experience.
+
+
+
+About project:
+Developed with react flow library there are 3 nodes 
+
+
+• Email
+
+To: 
+
+• From: 
+
+• Subject:
+
+• Body:
+
+Meeting
+
+• A list of email IDs of people attending
+
+• A location
+
+• Reminder
+
+• A list of email IDs of people that need to be reminded of something
+
+. The reminder text
+
+there are 3 buttons in my project , initially it is blank screen with nodes
+Each node  containing 3 buttons if i click on first button the content of first button get  display at right side then after clicking any other button it  hide  the content of previous and show new content corresponds to the new button pressed.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
