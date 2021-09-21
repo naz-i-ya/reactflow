@@ -1,4 +1,5 @@
-
+Deployed link:
+  https://614a3c815ae1fc000762d1e1--ecstatic-wright-f251e7.netlify.app/
 Tech used: HTML, CSS, JavaScript, ReactJS, React Flow, CSS Flexbox, Material-ui, Bootstrap.
 
 I created reusable and efficient components with flexbox and the BEM (Block Element Modifier) naming convention. Increased productivity with Emmet and ES7 code snippets to push out a compelling front end design while also building components with state management top of mind. Heavily styled with CSS to have full control on styles to improve user experience.
