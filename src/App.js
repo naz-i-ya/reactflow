@@ -27,7 +27,7 @@ function App() {
            setShow={setShow}
           {email && <Email />}
           {meeting && <Meeting/>}
-          {reminder && <Reminder/>
+          {reminder && <Reminder/>}
           </BasicFlow>
          
     </div>
