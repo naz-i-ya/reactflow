@@ -1,13 +1,10 @@
 import React, {useState} from "react";
 import BasicFlow from './BasicFlow';
 import './App.css';
-//import {BrowserRouter as Router, Route, Switch } from 'react-router-dom'
 import Meeting from './components/Meeting';
 import Reminder from './components/Reminder';
 import Email from './components/Email';
-import MeetingNode from './MeetingNode';
-import EmailNode from './EmailNode';
-import ReminderNode from './ReminderNode';
+
 
 
 
@@ -27,14 +24,10 @@ function App() {
   return (
     <div className="App">
           <BasicFlow className="container" >
+           setShow={setShow}
           {email && <Email />}
           {meeting && <Meeting/>}
-          {reminder && <Reminder/>}
-
-          
-            {/* <MeetingNode setShow={setShow} />
-            <EmailNode setShow={setShow}/>
-            <ReminderNode setShow={setShow}/> */}
+          {reminder && <Reminder/>
           </BasicFlow>
          
     </div>
